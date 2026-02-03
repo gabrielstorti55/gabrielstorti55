@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00D4FF&center=true&width=800&lines=Hi%2C+I'm+Gabriel+Storti+👋;FullStack+Developer+💻;Founder+%40TratorHub+🚜;Building+the+Future+of+AgriBusiness" alt="Typing SVG" />
+</div>
+
 # Olá, eu sou Gabriel Storti! 👋
 
 Full-stack developer | Founder @TratorHub | Agritech Enthusiast
