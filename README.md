@@ -1,13 +1,13 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=500&color=FF00FF&center=true&width=900&lines=Hi%2C+I'm+Gabriel+Storti+%F0%9F%91%8B;FullStack+Developer+%F0%9F%92%BB;Founder+%40TratorHub+%F0%9F%9A%9C;Building+the+Future+of+AgriBusiness)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=500&color=00D084&center=true&width=900&lines=Hi%2C+I'm+Gabriel+Storti+%F0%9F%91%8B;FullStack+Developer+%F0%9F%92%BB;Founder+%40TratorHub+%F0%9F%9A%9C;Building+the+Future+of+AgriBusiness)
 
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20TratorHub-FF00FF?style=for-the-badge&logo=rocket" />
-  <img src="https://img.shields.io/badge/Location-Franca%2C%20SP-00D4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Agritech-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20TratorHub-00D084?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Location-Franca%2C%20SP-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Agritech-10B981?style=for-the-badge" />
 </div>
 
 ---
@@ -83,8 +83,8 @@ Connect sellers & buyers in the agribusiness ecosystem
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-storti)
-[![Website](https://img.shields.io/badge/Website-FF00FF?style=for-the-badge&logo=globe&logoColor=fff)](https://tratorhub.com)
-[![Email](https://img.shields.io/badge/Email-FF4444?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielstorti8828@gmail.com)
+[![Website](https://img.shields.io/badge/Website-00D084?style=for-the-badge&logo=globe&logoColor=fff)](https://tratorhub.com)
+[![Email](https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielstorti8828@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/gabrielstorti55)
 
 </div>
