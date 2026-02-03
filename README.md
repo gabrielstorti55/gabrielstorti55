@@ -1,75 +1,111 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00D4FF&center=true&width=800&lines=Hi%2C+I'm+Gabriel+Storti+👋;FullStack+Developer+💻;Founder+%40TratorHub+🚜;Building+the+Future+of+AgriBusiness" alt="Typing SVG" />
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=500&color=FF00FF&center=true&width=900&lines=Hi%2C+I'm+Gabriel+Storti+%F0%9F%91%8B;FullStack+Developer+%F0%9F%92%BB;Founder+%40TratorHub+%F0%9F%9A%9C;Building+the+Future+of+AgriBusiness)
+
 </div>
 
-# Olá, eu sou Gabriel Storti! 👋
-
-Full-stack developer | Founder @TratorHub | Agritech Enthusiast
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Building%20TratorHub-FF00FF?style=for-the-badge&logo=rocket" />
+  <img src="https://img.shields.io/badge/Location-Franca%2C%20SP-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Agritech-FFD700?style=for-the-badge" />
+</div>
 
 ---
 
-## 🚀 Sobre mim
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Sobre mim**
 
-Sou um desenvolvedor full-stack apaixonado por tecnologia e inovação, com foco especial em agritech. Estou construindo o **TratorHub**, um marketplace para conectar vendedores e compradores de equipamentos agrícolas, democratizando o acesso a máquinas de qualidade no Brasil.
+> "Transformando o agronegócio através da tecnologia"
+
+Sou um **desenvolvedor full-stack** apaixonado por criar soluções inovadoras. Estou construindo o **TratorHub**, um marketplace revolucionário que conecta vendedores e compradores de equipamentos agrícolas, democratizando o acesso a máquinas de qualidade no Brasil.
 
 - 🎓 Estudante de Engenharia de Software (UNIFACEF)
-- 💼 Fundador do TratorHub
-- 🌾 Especialista em agribusiness e tecnologia agrícola
-- 📍 Localizado em Franca, São Paulo, Brazil
+- 💼 Fundador & Desenvolvedor Principal @ **TratorHub**
+- 🌾 Especialista em Agribusiness & Agritech
+- 🕐 Sempre aprendendo & inovando
 
 ---
 
-## 🛠️ Stack Tecnológico
+## <img src="https://media.giphy.com/media/QssGEFrNgs0zCAZ4c3/giphy.gif" width="30"> **Tech Stack**
 
-**Frontend**
-- React & React Native
-- TypeScript/JavaScript
-- Tailwind CSS & Responsive Design
+<div align="center">
 
-**Backend**
-- Node.js
-- TypeScript
-- RESTful APIs
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 
-**Database & Cloud**
-- Supabase (PostgreSQL)
-- AWS (in progress)
-- Vercel & Netlify
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
 
----
+### Database & Cloud
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=fff)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
 
-## 🎯 Projetos em Destaque
-
-📱 **TratorHub** - Marketplace de equipamentos agrícolas
-- Plataforma web e mobile para conectar vendedores e compradores
-- Sistema de autenticação e perfis
-- Gerenciamento de anúncios
+</div>
 
 ---
 
-## 📊 Estatísticas
+## 👥 **Featured Projects**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielstorti55&theme=dark&show_icons=true&count_private=true)
+<div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielstorti55&theme=dark&layout=compact)
+### 🚜 [**TratorHub**](https://github.com/gabrielstorti55/TratorHub)
+Marketplace de equipamentos agrícolas  
+Connect sellers & buyers in the agribusiness ecosystem
 
----
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
 
-## 🔗 Conecte-se comigo
-
-- **LinkedIn**: [gabriel-storti](https://www.linkedin.com/in/gabriel-storti)
-- **Site**: [tratorhub.com](https://tratorhub.com)
-- **Email**: gabrielstorti8828@gmail.com
-
----
-
-## 💡 Estou sempre aberto para
-
-- Discussões sobre agritech e inovação no agronegócio
-- Colaborações em projetos open-source
-- Oportunidades de networking
-- Feedback sobre meus projetos
+</div>
 
 ---
 
-⭐ Se gostou do meu trabalho, considere dar uma estrela nos meus repositórios!
+## 📈 **GitHub Stats**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielstorti55&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielstorti55&theme=tokyonight&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+## 👹 **Let's Connect**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-storti)
+[![Website](https://img.shields.io/badge/Website-FF00FF?style=for-the-badge&logo=globe&logoColor=fff)](https://tratorhub.com)
+[![Email](https://img.shields.io/badge/Email-FF4444?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabrielstorti8828@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/gabrielstorti55)
+
+</div>
+
+---
+
+## 🎨 **Open For**
+
+<div align="center">
+
+💬 Discussions about **Agritech** & **Innovation**  
+🤝 Collaborations on **Open Source** projects  
+🚀 **Partnerships** & **Business** opportunities  
+📯 **Feedback** on my projects
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **If you like my work, give my repos a star!**
+
+</div>
